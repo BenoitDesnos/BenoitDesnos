@@ -1,4 +1,5 @@
-- 👋 Bonjour, je m'appelle @BenoitDesnos je suis agé de 27 ans et je me forme en autonomie au développement web front-end depuis quelques mois.
+- 👋 Bonjour, je m'appelle @BenoitDesnos je suis agé de 28 ans et je me forme en autonomie au développement web front-end depuis février 2022,
+je viens aussi de terminer la formation développeur web chez Openclassrooms débutée le 23 juin 2022.
 
 - Je suis actuellement à la recherche d'un emploi/alternance en développement front-end.
 
